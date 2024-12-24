@@ -16,23 +16,22 @@ A fullstack Design Showcase Platform built with Next.js, React, TypeScript, Shad
 
 ## Search Page
 
-<img src="https://github.com/MuhamedGamall/design-showcase-platform/blob/master/public/one.png" width="400px" />
+<img src="https://github.com/MuhamedGamall/design-showcase-platform/blob/main/public/one.png" width="400px" />
 
 ## Profile Page
 
-<img src="https://github.com/MuhamedGamall/design-showcase-platform/blob/master/public/two.png" width="400px" />
+<img src="https://github.com/MuhamedGamall/design-showcase-platform/blob/main/public/two.png" width="400px" />
 
 ## Project Page
 
-<img src="https://github.com/MuhamedGamall/design-showcase-platform/blob/master/public/three.png" width="400px" />
+<img src="https://github.com/MuhamedGamall/design-showcase-platform/blob/main/public/three.png" width="400px" />
 
 ## Update Project Page
 
-<img src="https://github.com/MuhamedGamall/design-showcase-platform/blob/master/public/four.png" width="400px" />
-
+<img src="https://github.com/MuhamedGamall/design-showcase-platform/blob/main/public/four.png" width="400px" />
 ## Create Project Page
 
-<img src="https://github.com/MuhamedGamall/design-showcase-platform/blob/master/public/five.png" width="400px" />
+<img src="https://github.com/MuhamedGamall/design-showcase-platform/blob/main/public/five.png" width="400px" />
 
 ## Getting Started
 
